@@ -1,5 +1,5 @@
-STDLIB: New Erlang Core
-=======================
+BASE: Erlang Base Library
+=========================
 
 Features
 --------

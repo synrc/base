@@ -1,7 +1,7 @@
 BASE: Erlang Base Library
 =========================
 
-[![Actions Status](https://xxx.execute-api.us-west-2.amazonaws.com/production/badge/voxoz/base)](https://xxx.execute-api.us-west-2.amazonaws.com/production/results/voxoz/base)
+[![Actions Status](https://github.com/voxoz/base/workflows/elixir/badge.svg)](https://github.com/voxoz/base/actions)
 [![Build Status](https://travis-ci.org/voxoz/base.svg?branch=master)](https://travis-ci.org/voxoz/base)
 [![Hex pm](http://img.shields.io/hexpm/v/base.svg?style=flat)](https://hex.pm/packages/base)
 

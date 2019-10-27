@@ -1,0 +1,9 @@
+{application, base,
+ [
+  {description, "BASE Erlang Base Library"},
+  {vsn, "0.10.0"},
+  {registered, []},
+  {applications, [kernel,stdlib]},
+  {mod, { base, []}},
+  {env, []}
+ ]}.
